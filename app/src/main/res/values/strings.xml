@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="welcomeString">WELCOME</string>
+    <string name="loginText">please log in</string>
+    <string name="loginButton">Navigate</string>
+    <string name="passwordText">password :</string>
+    <string name="emailText">email :</string>
 </resources>
